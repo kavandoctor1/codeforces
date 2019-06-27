@@ -12,5 +12,5 @@ ls.append(l)
 ls.pop(0)
 print(len(ls))
 for i in ls:
-    print(len(i)+1, end = " ")
+    print(len(i) + 1, end = " ")
 print()
