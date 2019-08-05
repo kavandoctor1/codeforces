@@ -6,7 +6,7 @@ using namespace std;
 #define Forv(vector) for(auto& i : vector)
 #define Forv2(vector) for(auto& j : vector)
 #define show(vector) for(auto& abcd : vector){cout<<abcd<<"\n";}
-
+    
 int main(){
     int n,x,y;
     cin>>n>>x>>y;
